@@ -2,10 +2,10 @@ Weather Application In Android Studio with Base Version of Android 7.0 Nougat Ve
 
 Application Images
 
-![alt text](https://i.imgur.com/YxljOGf.png)
+![SplashScreen With Gif](https://i.imgur.com/YxljOGf.png)
 
 
-![alt text](https://i.imgur.com/FVnAwWP.png)
+![Application Showing City weather](https://i.imgur.com/FVnAwWP.png)
 
 
 ![alt text](https://i.imgur.com/Kfz9Hrm.png)
